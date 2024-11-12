@@ -1,5 +1,5 @@
 # DATE:
-# Find the square root of a number
+# EXP-5: Find the square root of a number
 
 ## AIM:
 To write a program to find the square root of a number.
@@ -17,7 +17,10 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
+Developed by: A K PREETHI
+RegisterNumber: 212223230156 
+
+
 Program to find the square root for the given number(newton's method) using function.
 def newton_method(n,n_iter):
     a=float(n)
@@ -28,9 +31,7 @@ a=int(input())
 n_iter=100
 n=newton_method(a,n_iter)
 print(f"Square root of the number: {n}")
-Developed by: A K PREETHI
-RegisterNumber: 212223230156 
-*/
+
 ```
 
 ## Output:
